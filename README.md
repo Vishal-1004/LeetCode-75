@@ -9,7 +9,7 @@ I have embarked on a mission to conquer LeetCode 75 challenges (in Python). To m
 | :------ | :------- | :------------------- | :-----| :---------|
 | `1768` | `Merge Strings Alternately` | **Array/String** | [Leetcode](https://leetcode.com/problems/merge-strings-alternately/description/) | **Easy** |
 | `1071` | `Greatest Common Divisor of Strings` | **Array/String** | [Leetcode](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | **Easy** |
-| `1431` | `Four Sum` | **Array/String** | [Leetcode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) | **Easy** |
+| `1431` | `Kids With the Greatest Number of Candies` | **Array/String** | [Leetcode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) | **Easy** |
 
 ## Different Level Of Questions Solved
 
